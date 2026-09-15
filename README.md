@@ -1,6 +1,6 @@
 # Image Processing
 
-Notebooks based on ** (Image Processing)**, covering classical image processing techniques and their extension into machine learning and deep learning for image analysis.
+Notebooks based on **(Image Processing)**, covering classical image processing techniques and their extension into machine learning and deep learning for image analysis.
 
 ## Contents
 
