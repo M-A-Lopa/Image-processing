@@ -1,6 +1,6 @@
 # Image Processing
 
-Labs, tasks, and assignments from **CSE428 (Image Processing)**, covering classical image processing techniques and their extension into machine learning and deep learning for image analysis.
+Notebooks based on ** (Image Processing)**, covering classical image processing techniques and their extension into machine learning and deep learning for image analysis.
 
 ## Contents
 
@@ -41,4 +41,4 @@ NumPy, OpenCV, scikit-image, Matplotlib, scikit-learn, TensorFlow/Keras, PyTorch
 Each notebook is self-contained — open it in Jupyter or Google Colab and run the cells in order. Some notebooks expect a dataset image (e.g. `brain_mri.png`, `cat.png`) to be present in the working directory or Colab's `/content/` folder; check the notebook's first few cells for the expected filename.
 
 ## Note
-These notebooks were completed as part of coursework and are shared here for personal reference and learning.
+These notebooks are shared here for personal reference and learning.
